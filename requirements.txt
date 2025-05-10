@@ -4,16 +4,9 @@ en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_
 en_core_web_trf @ https://github.com/explosion/spacy-models/releases/download/en_core_web_trf-3.8.0/en_core_web_trf-3.8.0-py3-none-any.whl#sha256=272a31e9d8530d1e075351d30a462d7e80e31da23574f1b274e200f3fff35bf5
 Flask==2.3.2
 fpdf==1.7.2
-fsspec==2025.3.2
-fuzzywuzzy==0.18.0
 gunicorn==21.2.0
 huggingface-hub==0.19.3
 nltk==3.8.1
-numpy==1.26.4
-pandas==2.2.3
-pdfminer.six==20221105
-pdfplumber==0.11.6
-pycparser==2.22
 PyMuPDF==1.25.5
 reportlab==4.4.0
 requests==2.32.3
